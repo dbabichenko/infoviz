@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3321,
+                    47.6062
+                ]
+            },
+            "properties": {
+                "magnitude": 4.5,
+                "location": "Seattle, WA",
+                "date": "2023-09-15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2437,
+                    34.0522
+                ]
+            },
+            "properties": {
+                "magnitude": 5.2,
+                "location": "Los Angeles, CA",
+                "date": "2023-09-17"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.262,
+                    44.5646
+                ]
+            },
+            "properties": {
+                "magnitude": 3.8,
+                "location": "Corvallis, OR",
+                "date": "2023-09-20"
+            }
+        }
+    ]
+}
